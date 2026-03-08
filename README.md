@@ -1,4 +1,4 @@
-# Learn MLOps
+# Learn MLOps from scratch
 
 A comprehensive collection of free resources to learn everything about AI
 
