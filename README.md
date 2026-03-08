@@ -23,6 +23,7 @@ A comprehensive collection of free resources to learn everything about AI
 - [ML Visualization](https://www.youtube.com/@statquest/playlists)
 - [ML from scratch](https://www.youtube.com/watch?v=p1hGz0w_OCo&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
 - [ML from scratch](https://www.youtube.com/@harryconnorai)
+- [ML practice](https://www.tensortonic.com/)
 
 ## DL basic
 
