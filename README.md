@@ -4,6 +4,8 @@ A comprehensive collection of free resources to learn everything about AI
 
 ## Mathematical Foundations
 
+Linear Algebra, Probability & Statistics, Probability, Optimization
+
 - [Mathematics for Machine Learning](https://www.youtube.com/watch?v=Cob_1B9TIlA&list=PLmp4AHm0u1g0IOT7St3ziub-XP5FGGsaE)
 - [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Probability & Statistics - Khan Academy](https://www.khanacademy.org/math/statistics-probability)
