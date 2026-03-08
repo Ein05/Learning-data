@@ -8,7 +8,7 @@ A comprehensive collection of free resources to learn everything about AI
 - [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Probability & Statistics - Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 - [Statistics Fundamentals - Josh Strarmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [Linear Algebra Visualize](https://www.youtube.com/@visualkernel)
+- [Linear Algebra Visualization](https://www.youtube.com/@visualkernel)
 
 ## Python
 
